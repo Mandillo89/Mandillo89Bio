@@ -1,37 +1,43 @@
 # 👋 Hi, I'm Armando Guizar
 
-## Data Analyst Junior | Retail & Operations | SQL • Python • Power BI
+## Data Analyst Junior | Retail & E-commerce Analytics | SQL • Python • Power BI
 
-Analista de Datos en transición con sólida experiencia en auditoría, operaciones retail y análisis de información para empresas internacionales. Mi background en control de procesos, validación de datos y generación de reportes ejecutivos me permite abordar problemas de negocio con un enfoque analítico y orientado a resultados.
+Data Analyst en transición con sólida experiencia en **auditoría, operaciones retail y análisis de información** para empresas internacionales. Mi background en control de procesos, validación de datos y generación de reportes ejecutivos me permite abordar problemas de negocio con un enfoque **analítico, estructurado y orientado a resultados**.
 
-Actualmente me estoy especializando en **Data Analytics**, utilizando herramientas como **Python, SQL y Power BI** para limpiar, analizar y visualizar datos, transformándolos en insights accionables que apoyan la toma de decisiones.
+Actualmente me especializo en **Data Analytics**, desarrollando proyectos prácticos con **Python, SQL y Power BI**, enfocados en la limpieza, análisis y visualización de datos para convertir información en **insights accionables** que apoyen la toma de decisiones.
 
 ---
 
 ## 🛠️ Technical Skills
-- **Python:** Pandas, NumPy, Matplotlib  
-- **SQL:** PostgreSQL, MySQL  
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn  
+- **SQL:** SQLite, PostgreSQL  
 - **Data Analysis:** EDA, Data Cleaning, Data Validation  
-- **Visualization:** Power BI, Tableau  
-- **Tools:** Excel Avanzado, Git/GitHub  
+- **Visualization & BI:** Power BI (Power Query, DAX), Tableau  
+- **Tools:** Excel Avanzado, Git & GitHub  
 
 ---
 
 ## 📊 Featured Projects
-Aquí encontrarás proyectos enfocados en análisis de datos aplicados a contextos reales de negocio, especialmente **retail y operaciones**, incluyendo:
+Aquí encontrarás proyectos de análisis de datos aplicados a **casos reales de negocio**, especialmente en **retail y e-commerce**:
 
-- Análisis de ventas retail con Python y SQL  
-- Dashboards operativos en Power BI  
-- Auditoría y calidad de datos para procesos comerciales  
+- 📈 **Retail Sales Exploratory Data Analysis (Python)**  
+  Análisis exploratorio de ventas incluyendo limpieza de datos, análisis estadístico y visualización para identificar patrones de comportamiento y oportunidades de mejora.  
+  👉 *Python, Pandas, Matplotlib, Seaborn*
 
-*(Los proyectos se encuentran en desarrollo y se actualizan de forma continua.)*
+- 🧮 **Sales Analysis with SQL**  
+  Análisis de datos de ventas utilizando SQL para responder preguntas de negocio sobre revenue, pedidos, categorías y desempeño comercial.  
+  👉 *SQL, SQLite*
+
+- 📊 **E-commerce Sales Dashboard (Power BI)**  
+  Dashboard interactivo con KPIs clave como Total Revenue, Total Orders, Units Sold y Average Order Value (AOV), con filtros dinámicos por fecha, categoría y ubicación.  
+  👉 *Power BI, Power Query, DAX*
 
 ---
 
 ## 🎯 Career Focus
 - Data Analyst Junior  
 - Business Intelligence Analyst  
-- Data & Operations Analytics  
+- Retail & E-commerce Analytics  
 
 ---
 
@@ -42,4 +48,5 @@ Aquí encontrarás proyectos enfocados en análisis de datos aplicados a context
 ---
 
 ## 🔗 Connect with me
-- LinkedIn: https://www.linkedin.com/in/armando-guizar-76201024a/
+- 💼 LinkedIn: https://www.linkedin.com/in/armando-guizar-76201024a/
+
